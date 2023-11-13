@@ -1,3 +1,3 @@
-Aportes realizados a compañeros:
-https://github.com/dieherram/dieherram.github.io
-https://github.com/elevillar/elevillar.github.io
+Aportes realizados a compañeros:<br>
+https://github.com/dieherram/dieherram.github.io<br>
+https://github.com/elevillar/elevillar.github.io<br>
