@@ -1,0 +1,114 @@
+
+
+
+/* formatos generales */
+
+*{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* titulo */
+.titulo h1{
+margin: 1rem auto;
+text-align: center;
+font-weight: 700;
+font-size: 2rem;
+
+}
+
+.imguno img{
+    width: 100%;
+}
+
+
+/* descripcion */
+.descripcion{
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+    justify-content: space-around ;
+    width: 77%;
+}
+
+
+.pdescripcion {
+    font-size:  0.8rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    justify-content: center;
+    font-weight: 200;
+}
+
+
+.imgdos img{
+    width: 100%;
+}
+
+
+
+
+/* caracteristicas */
+
+.caracteristicas{
+    font-size: 1rem;
+    background-color:#1E1A13;
+    padding: 3rem;
+    font-weight: 300;
+
+    
+}
+
+.tablacaracteristicas {
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2rem;
+    background-color: #1E1A13;
+       
+}
+
+.tablacaracteristicas p{
+    background-color: #1E1A13;
+}
+.tablacaracteristicas i{
+    background-color: #1E1A13;
+}
+.tablacaracteristicas div{
+    background-color: #1E1A13;
+}
+.caracteristicas h2{
+    background-color: #1E1A13;
+}
+
+
+
+
+/* galeria */
+
+.galeria img{
+    width: 100%;
+    padding: 0.3rem;
+}
+.galeria{
+    display: flex;
+    flex-direction: row;;
+    width: calc(80%/3);
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+ 
+}
+
+footer p{
+    background-color:#1E1A13 ;
+    font-size: 0.7rem;
+    padding: 1rem;
+}

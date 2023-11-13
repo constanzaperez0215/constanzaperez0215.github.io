@@ -1,0 +1,94 @@
+.header{
+    height: 5em;
+    padding: 2em;
+    font-size: 1em;
+    background-image: url(/assets/img-dos/bg.jpg);
+    background-size: cover ;
+    background-position: center;
+    text-align: center;
+}
+
+
+.header h1 {
+    margin: 0em auto;
+    font-weight: 300;
+    font-size: 2em;
+    ;
+}
+
+.header p{
+    margin: 0em auto;
+    
+}
+
+
+
+.products {
+    width: 100% auto;
+    margin: 0 auto;
+    margin-top: 1em;
+    text-align: center;
+    background-position: center;
+    background-color: rgb(8, 96, 8);
+    background-size: cover;
+
+    
+}
+
+
+.products img {
+width: 10em;
+border: solid 0.2em;
+border-color: black;
+}
+
+
+.products h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    margin: 0.5em auto;
+}
+.products p{
+    margin: 0 auto;
+    font-size: small;
+}
+
+.descripcion {
+    background-color: rgb(243, 233, 220);
+    
+}
+
+.precio{
+    width: 20%;
+    color: beige;
+    text-align: center;
+    font-weight: 700;
+    
+    
+    
+}
+.footer{
+    background-color: rgb(11, 97, 11);
+    text-align: center;
+    width: 100%;
+    margin: 0em auto;
+    border: 0em;
+    margin-top: 1em;
+}
+.footer img{
+    width: 1em;
+    margin: 0em;
+    
+}
+
+.footer table{
+
+    margin: 0 auto;
+   
+    
+}
+
+.footer p{
+    margin: 0 auto;
+    
+}
