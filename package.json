@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "standard": "^17.1.0"
+  },
+  "name": "constanzaperez0215.github.io",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae",
+  "main": "index.js",
+  "devDependencies": {},
+  "eslintConfig": {
+    "extends":[
+     " /constanzaperez0215.github.io/node_modules/standard/index.js"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
